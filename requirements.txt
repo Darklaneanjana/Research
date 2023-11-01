@@ -1,3 +1,5 @@
 streamlit
 opencv-python-headless
 matplotlib
+
+git+https://github.com/facebookresearch/detectron2.git#egg=detectron2
